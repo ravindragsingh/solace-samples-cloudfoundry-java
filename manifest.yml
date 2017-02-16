@@ -1,5 +1,5 @@
 ---
 applications:
-- name: solace-samples-cloudfoundry
-memory: 256M
+- name: solacesamplescloudfoundry
+memory: 512M
 
